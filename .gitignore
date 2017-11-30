@@ -1,0 +1,15 @@
+.tscache
+/node_modules
+tscommand
+sub/
+/coverage
+/junit-results
+/.idea
+/typings/globals
+npm-debug.log
+debug.log
+reports/
+build/
+!tools/
+yarn-error.log
+/junit-results
